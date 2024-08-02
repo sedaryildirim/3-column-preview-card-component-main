@@ -207,10 +207,10 @@ footer {
     to { opacity: 1; transform: translateY(0); }
 }
 
-.card {
+/* .card {
     animation: fadeIn 0.5s ease-out forwards;
-}
+} */
 
-.sedan { animation-delay: 0.1s; }
+/* .sedan { animation-delay: 0.1s; }
 .suv { animation-delay: 0.3s; }
-.luxury { animation-delay: 0.5s; }
+.luxury { animation-delay: 0.5s; } */
